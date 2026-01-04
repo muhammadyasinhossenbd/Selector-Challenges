@@ -1,6 +1,7 @@
 body {
     font-family: 'Courier New', Courier, monospace;
-    background-image: url(/BG.png);
+    background-image: url("../BG.png");
+    /* move up one folder, then into images */
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -38,5 +39,5 @@ div {
 }
 
 #Meem {
-    color: beige;
+    color: rgb(1, 167, 37);
 }
