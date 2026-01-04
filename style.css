@@ -8,7 +8,14 @@ body {
 
 
 h3 {
+
+    border: 5px solid rgb(4, 4, 82);
     color: aqua;
+
+    box-shadow: 7px 7px 7px 0px aquamarine;
+    display: inline-block;
+
+
 }
 
 div {
@@ -22,6 +29,7 @@ div {
     background-color: rgba(255, 255, 255, 0.0);
 
     margin: 10px 10px 10px 10px;
+    box-shadow: 10px 10px 10px 0px red;
 }
 
 .salim {
