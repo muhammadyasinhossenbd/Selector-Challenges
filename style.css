@@ -1,6 +1,6 @@
 body {
     font-family: 'Courier New', Courier, monospace;
-    background-image: url("/BG.png");
+    background-image: url("./BG.png");
     /* move up one folder, then into images */
     background-size: cover;
     background-repeat: no-repeat;
